@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindMyAge</string>
+    <string name="enterYOB">Enter you YOB</string>
+</resources>
